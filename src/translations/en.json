@@ -1,0 +1,475 @@
+{
+  "settings": {
+    "about": "About",
+    "app_name": "App Name",
+    "arabic": "Arabic",
+    "dark": "Dark",
+    "english": "English",
+    "generale": "General",
+    "github": "Github",
+    "language": "Language",
+    "light": "Light",
+    "links": "Links",
+    "logout": "Logout",
+    "more": "More",
+    "privacy": "Privacy Policy",
+    "rate": "Rate",
+    "share": "Share",
+    "support": "Support",
+    "support_us": "Support Us",
+    "terms": "Terms of Service",
+    "theme": "Theme",
+    "title": "Settings",
+    "version": "Version",
+    "website": "Website"
+  },
+
+  "Onboarding": {
+    "welcome": "Rider app mein khush aamdeed!",
+    "message": " Login karain ya Naya Rider banain aur ba-izzat rozgar kamayen! Fix salary, fuel, bonus aur insurance ki sahulaat kay sath.",
+    "loginbtn": "continue to Login",
+    "riderbtn": "become a rider"
+  },
+  "login": {
+    "headline": "Account Sign In Karain",
+    "welcome": "Aap apnay account mein login kar chukain hain",
+    "cnic_login": "Apna CNIC number dain aur login karain",
+    "cnic": "CNIC",
+    "password": "Password",
+    "forgot_password": "Forgot Password?",
+    "sign_in": "SIGN IN",
+    "option": "DON'T HAVE AN ACCOUNT YET? ",
+    "register": "REGISTER",
+    "next": "NEXT"
+  },
+  "otp": {
+    "headline": "Enter One Time Pin",
+    "message": "Hum nay aap kay phone number pay OTP bheja hai, ENTER karain",
+    "number": "0300 XXXXXXX.",
+    "option": "OTP nahi mila? ",
+    "resend": "RESEND OTP",
+    "next": "NEXT"
+  },
+  "conformation": {
+    "message": "Welcome Back!",
+    "welcome": "Aap apnay account mein login kar chukain hain",
+    "phonemessage": "Phone Number Added!",
+    "message2": "Mobile Number Tasdeeq Kar Liya Gaya Hai!",
+    "goto": "Go to Home screen"
+  },
+  "password": {
+    "headline": "Sign In Account",
+    "welcome": "Enter your Password to Login to your account",
+    "forgot_password": "Forgot Password?"
+  },
+
+  "resetPassword": {
+    "welcome": "Welcome Back",
+    "message": "You have been Logged in to your Account",
+    "message2": "Your Password has been changed succesfully, Now you can use that to login to your account ",
+    "changed": "Password Changed!",
+    "added": "Phone Number Added",
+    "message3": "Your number has been succesfully confirmed"
+  },
+  "register": {
+    "headline": "Naya Account Banayen",
+    "headline2": "Update Profile",
+    "address": "Poora Address type karain",
+    "headline3": "Aapni profile information update karain",
+    "message": "Cheezious kay rider banain",
+    "added": "Phone Number Added",
+    "confirmed": "Mobile Number Tasdeeq Kar Liya Gaya Hai!",
+    "bikeno": "Bike ka number"
+  },
+  "forgotPassword": {
+    "headline": "Forgot Password?",
+    "message": "Enter the number associated with your account and we'll send a reset code  with instructions to reset your password."
+  },
+  "newPassword": {
+    "headline": "Enter New Password?",
+    "message": "Please enter new password using combination of small letters and uppercase letters."
+  },
+  "registerInfo": {
+    "headline": "Welcome,",
+    "message": "Cheezious kay rider banain",
+    "required": "Zaroori Steps",
+    "option1": "Rider baanny kay liye nichy diye gaye zaroori documents upload karain",
+    "completed": "Completed Steps",
+    "option2": "Yeh wo sab documents hain jo aapnay upload kiye hain",
+    "step1": "CNIC - Agli side ki Photo",
+    "step2": "CNIC - Pichli side ki Photo",
+    "step3": "Driving License - Agli side ki Photo",
+    "step4": "Driving License - Pichli side ki Photo",
+    "step5": "Bike ki Copy - Agli side ki Photo",
+    "step6": "Bike ki Copy - Pichli side ki Photo",
+    "description": "Document upload karain"
+  },
+  "document-details": {
+    "headline1": "National Identity Card (CNIC)",
+    "headline2": "Driving License",
+    "headline3": "Bike Registration",
+    "front_message": "Agli side ki photo",
+    "back_message": "Pichli side ki photo",
+    "requirments": "Requirments",
+    "point1": "Upload karny say pehly check kar lain kay photo clear or parhnay kay qabil hai",
+    "front_point2": "Tamaam information jaisy kay naam, paidaish ki tareekh wagera sahi say parhnay kay qabil hoon",
+    "back_point2": "Tamaam information jaisy kay address parhnay kay qabil hoon",
+    "point3": "Di gai information galat hony ki surat mein apki application reject kar di jaye gi",
+    "sample": "Sample",
+    "capture": "TAKE PHOTO",
+    "licenseFront_point2": "Tamaam information jaisy kay naam, address, CNIC No. parhnay kay qabil hoon",
+    "licenseBack_point2": "Tamaam information parhnay kay qabil hoon",
+    "bikeReg_point2": "Tamaam information jaisy kay naam, address, bike no. wagira parhnay kay qabil hoon"
+  },
+
+  "welcome": {
+    "headline": "WELCOME HASSAAN KHALID",
+    "message": "Humari team aap kay documents review kar rahi hai jald aapko bata diya jaye ga.",
+    "headline2": "THANKS FOR UPDATING YOUR DETAILS",
+    "message2": "Aapki information update kar di gai hai.",
+    "option": "TAKE ME TO LOGIN"
+  },
+  "random-compliance": {
+    "headline": "Rider Random Compliance",
+    "steps": "Steps",
+    "option1": "Apni selfi banayen",
+    "option2": "Apnay bag ki picture banaye",
+    "option3": "Apni bike ki video banayen",
+    "btn": "START SHIFT"
+  },
+  "profile": {
+    "rating": "4.0 Ratings",
+    "reward_value": "30",
+    "rider_name": "Ali Butt",
+    "bike_name": "Honda CD 70",
+    "view_profile": "PROFILE DEKHAIN",
+    "earning": "Earnings",
+    "order": "Orders",
+    "request_swap": "Request Swap",
+    "holidays": "Request Holidays",
+    "update_profile": "UPDATE PROFILE",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email": "Email",
+    "bike": "Bike #",
+    "update": "Update"
+  },
+  "riderRanking": {
+    "tags": "#Responsive, #Fast Delivery, #On Time",
+    "orders": "237 Orders Delivered",
+    "rider_name": "Ali Butt"
+  },
+
+  "training": {
+    "headline": "Rider Trainings",
+    "message": "Behtareen rider banain",
+    "option": "Learn the Topics",
+    "startQuiz": "START CHEEZIOUS QUIZ",
+    "next": "NEXT"
+  },
+  "quiz": {
+    "headline": "Rider Trainings",
+    "questions": "Questions",
+    "message": "Behtareen rider banain",
+    "option": "What are the steps to complete the order?"
+  },
+  "quizResult": {
+    "congrats": "Mubarak Ho!",
+    "fail": "Afsoos!",
+    "allowLocation": "Allow Location!",
+    "locationMessage": "This app collects location data to enable tracking for order delivery even app is closed or not in use.",
+    "message": "Aapnay quiz pass kar liya hai ab aap cheezious kay rider ban chukay hain, Apni branch aur shift ki assignment ka intazar karein",
+    "failMessage": "Aap quiz pass nahi kar sakay dubara videos daikh kar sawalat ka jawab dain.",
+    "failedButton": "Rider training Par jayen",
+    "succesButton": "GO TO HOME SCREEN",
+    "approve": "APPROVE",
+    "deny": "DENY"
+  },
+
+  "randomCompliance": {
+    "headline1": "Apni selfie banayen",
+    "headline2": "Apnay bag ki picture banaye",
+    "headline3": "Apni bike ki video banayen"
+
+  },
+  "mandatoryCompliance": {
+    "message": "Shift start karny say pehly",
+    "headline1": "Apni selfie banayen",
+    "headline2": "Apnay bag ki picture banaye",
+    "headline3": "Apni bike ki video banayen",
+    "option1": "Camera ki taraf dekhain aur yakeeni banain kay apki ankhain aur chehra saaf dikhai de raha ho.",
+    "option2": "Photo lety waqat koi filter istimaal na karain."
+  },
+  "compliance": {
+    "headline": "Rider Mandatory Compliance",
+    "headline1": "Rider Random Complaince",
+    "option": "Steps"
+  },
+  "breakModal": {
+    "title": "Break",
+    "message": "Kya aap break pe jana chahty hain?"
+  },
+  "breakNotify": {
+    "headline": "aap ki break ko start howe guzra time",
+    "time": "10:30",
+    "continue-btn": "Continue Shift"
+  },
+  "resumeNotify": {
+    "headline": "Aap nichy diye gaye time kay baad shift start kar sakain gay",
+    "time": "10:30"
+  },
+  "shiftButton": {
+    "text": "Shift Start karain"
+  },
+  "dahsboardBox": {
+    "warning": "Aap shift start nahi kar sakty",
+    "notice": "Zaroori Iqdamaat",
+    "message": "Nichy btaye gaye kaam karain",
+    "option1": "Apni photo upload karain",
+    "option2": "Bag ki photo upload karain",
+    "option3": "Bike ki video upload karain"
+  },
+  "jobRequest": {
+    "title": "Order Delivery Status",
+    "option1": "New Order Request",
+    "option2": "Pickup",
+    "option3": "Delivery",
+    "message": "60 seconds mein apka order khud he reject ho jaye ga",
+    "swipebtn": "Swipe right to accept order"
+  },
+  "pickup": {
+    "message": "aap ka order tayar ho raha hai jald say jald pick-up point pay ponchain",
+    "pickupbtn": "Arrived at Pick-Up",
+    "list": "Aapnay tamaam orders dekhain",
+    "order-picked": "Aap ka order tyar hai!Please order pick-up karain aur items confirm karain",
+    "pickedbtn": "PICK-UP ORDER"
+  },
+  "confirmation": {
+    "title": "Confirm your order!",
+    "message": "Please aapnay order ki tamaam items tick karian",
+    "btn": "Swipe right to confirm order"
+  },
+  "atCustomer": {
+    "message": "Order deliver karnay ki taraf jayen aur ahtiyaat say bike chalayen, customer ko achy sy mukhatib karain",
+    "customerbtn": "Arrived at customer"
+  },
+  "delivery-confirmation": {
+    "option1": "Order No.",
+    "option2": "Order Items :",
+    "option3": "Order type:",
+    "option4": "Address:",
+    "message": "Please collect 1200 PKR from the customer",
+    "btn": "Mark as Delivered"
+  },
+  "amount-modal": {
+    "title": "Confirm Amount!",
+    "message": "Kya aapnay 1200 PKR wasool kar liye hain?",
+    "delivery-status": "Aapnay order successfully deliver kar diya hai",
+    "title2": "Order Delivered!",
+    "next-order": "Proceed to Next Order",
+    "outlet-btn": "Move back to outlet",
+    "enter-amount": "Enter amount",
+    "amount-btn": "Confirm Amount"
+  },
+  "back-outlet": {
+    "message": "OUTLET ki taraf wapis jayen Aapkay liye ek nEXT ORDER TYAAR HUGA, NAYA ORDER ACCEPT KAREIN",
+    "outlet-btn": "At Outlet - ready to next order",
+    "back-outlet": "On way back to outlet"
+  },
+  "cancel-job": {
+    "title": "Reject Order",
+    "message": "Aap order kyun reject karna chahty hain?",
+    "reject-btn": "Reject Order"
+  },
+  "side-menu": {
+    "profile-btn": "Profile Dekhain"
+  },
+  "financialAssistance": {
+    "headline": "Financial Assistance",
+    "message": "Nichy di gai reasons mein say select karain!",
+    "option1": "Behan ki shadi kay liye",
+    "option2": "Apni shadi kay liye",
+    "option3": "waledain kay medical kay liye",
+    "option4": "Kuch aur wajah",
+    "reason": "Apply karny ki wajah enter karain",
+    "proof": "Shadi ka card ya koi document / photo",
+    "assistance": "My Assistance",
+    "submit_request": "Submit Request",
+    "my_request": "My Requests",
+    "nothing_show": "Nothing to Show",
+    "need_help": "NEED HELP?",
+    "start_typing": "Start Typing Here"
+  },
+  "jobhelp": {
+    "headline": "Take Rider  Picture",
+    "message": "Shift start karny say pehly",
+    "option": "Requirments",
+    "point1": "Camera ki taraf dekhain aur yakeeni banain kay apki ankhain aur chehra saaf dikhai de raha ho.",
+    "point2": "Yaqeeni bnain k apki Tasveer Achi tarah roshan hai,Koi Aks na ho.",
+    "point3": "Photo lety waqat koi filter istimaal na karain.",
+    "sample": "Sample",
+    "retake": "RETAKE"
+  },
+  "ranking": {
+    "headline": "Rider Rankings",
+    "message": "All Rankings",
+    "option": "My Ratings",
+    "ratings": "All Ratings",
+    "reward": "Reward To Get",
+    "remaining_orders": "200/500",
+    "ranking_value": "4.0 Ratings",
+    "reward_value": "35",
+    "reward_deal": "Deliver 200 Orders More to get Bonus"
+  },
+  "compensations": {
+    "headline": "Compensations",
+    "message": "All Compensations",
+    "total_compensation": "PKR 20,000",
+    "description": "Earned Money",
+    "calculate": "CALCULATE ?"
+  },
+  "order": {
+    "headline": "Order History",
+    "message": "This Month",
+    "option": "30 Orders delivered",
+    "orders": "All Orders",
+    "my_order": "My Orders",
+    "order_deliver": "order delivered",
+    "no_order": "No orders found"
+  },
+  "wallet": {
+    "headline": "Wallet",
+    "message": "Due Balance",
+    "option": "PKR 10,000",
+    "orders": "All Orders",
+    "btn": "Deposit",
+    "description": "No wallet history found"
+  },
+  "requestSwap": {
+    "headline": "Request Swap",
+    "message": "My Shift",
+    "option": "12:00 AM - 04:00 AM",
+    "requests": "All Requests",
+    "point": "NOT APPLICABLE?"
+  },
+  "paymentHistory": {
+    "headline": "Payment History",
+    "message": "This Month",
+    "salary": "Salary",
+    "salary_value": "PKR 30,000",
+    "salary_amount": " PKR 20,000",
+    "compensations": "Compensation",
+    "earn_money": "Earned Money",
+    "compensation_amount": " PKR 10,000",
+    "payments": "All Payments",
+    "no_record": "No record found"
+  },
+  "requestHoliday": {
+    "headline": "Request Holiday",
+    "message": "My Request",
+    "option": "New Leave",
+    "requests": "All Requests",
+    "send_request": "SEND REQUEST",
+    "all_request": "All Requests",
+    "no_leave": "No Leave Request Found",
+    "need_help": "NEED HELP?"
+  },
+
+  "incomingRequest": {
+    "headline": "Riders Request Swap",
+    "message": "All Requests"
+  },
+  "riderLeaderboard": {
+    "headline": "Top Riders",
+    "column1": "Rank",
+    "column2": "Person",
+    "column3": "Order"
+  },
+  "schedule": {
+    "headline": "Schedules",
+    "message": "My Shift",
+    "option": "Pick Your Shift",
+    "orders": "Your Shift"
+  },
+  "bookShift": {
+    "headline": "Pick your Shift",
+    "message": "Lorem ipsum ipsum ipsum",
+    "option": "Date",
+    "slots": "Slots"
+  },
+  "helpCenter": {
+    "headline": "Need Help",
+    "description": "For Cheezious Rider",
+    "option1": "Suggested Topics",
+    "option2": "FAQs",
+    "message1": "Driver Trainings",
+    "message2": "An Overview of driving with cheezious"
+  },
+  "termsconditions": {
+    "headline": "Terms & Conditions",
+    "terms": "Welcome to the Cheezious Rider App. This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your information. By downloading, installing, or using the App, you agree to the terms outlined in this Privacy Policy.",
+    "personal": " When you register for and use our App, we may collect personal information, including but not limited to your name, contact details (such as phone number and email address), and profile picture.",
+    "location": "To facilitate the rider delivery process, we collect and store your location information, including GPS data, when you use our App.",
+    "usage": "We may collect information about your interactions with the App, such as the orders you make, delivery routes, and device information (e.g., device type, operating system, and version).",
+    "payment": "If you use our App to make payments, we may collect payment card details. However, we do not store or retain this information. Payment transactions are processed securely through third-party payment processors.",
+    "communication": "  We may collect information related to your communications with us, such as customer support inquiries and feedback.",
+    "lastUpdate": "Last Updated (Dec 25, 2022)"
+  },
+  "ticket": {
+    "headline": "Your Tickets",
+    "status": "Status",
+    "description": "Request Holiday"
+  },
+  "assistance": {
+    "headline": "Financial Assistance",
+    "option": "Nichy di gai reasons mein say select karain!"
+  },
+  "generateTicket": {
+    "sisterWedding": "Behan ki shadi kay liye",
+    "ownWedding": "Apni shadi kay liye",
+    "parentMedical": "waledain kay medical kay liye",
+    "others": "Kuch aur wajah",
+    "option": "Apply karny ki wajah enter karain",
+    "proof": "Shadi ka card ya koi document / photo",
+    "upload": "Upload Document",
+    "uploaded": "Uploaded"
+  },
+  "dashboard": {
+    "headline": "AAP SHIFT start NAHI KAR SAKTY",
+    "description": "Zaroori Iqdamaat (3)",
+    "message": "Nichy btaye gaye kaam karain",
+    "headline2": "You are Online",
+    "details": "Details"
+  },
+  "cancel": {
+    "headline": "CANCEL JOB",
+    "question": "Why you want to cancel this job?"
+  },
+  "orderDelivered": {
+    "headline": "Order Delivered!",
+    "description": "Aapnay order successfully deliver kar diya hai",
+    "remaining_desc": "to the desired destination!"
+  },
+  "customerChat": {
+    "customer": "Customer"
+  },
+  "locationModal": {
+    "title": "Location ON Karain!",
+    "headline": "Please apni Location ON karain",
+    "locationButton": "open Location setting"
+  },
+  "internetModal": {
+    "headline": "Internet Maujood Nahi!",
+    "message": "Internet settings say on karain",
+    "n/wBtn": "Check Your Network"
+  },
+  "errorModal": {
+    "headline": "Kuch Galat Hua Hai!",
+    "message": "Zaroort parnay par helpline call karain",
+    "supportBtn": "call Customer support"
+  },
+  "helpModal": {
+    "headline": "Sign In karnay mein mushkil Peesh a rahi hai ?",
+    "message": "Hum sey madaad hasil karnay kay liye rabata karain"
+  }
+}
